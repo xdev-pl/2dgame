@@ -2,6 +2,7 @@
 moja pierwsza styczność z robiem gry w javie (2d)
 
 Zaznaczam z góry:
+
 Pierwszą myślą była jakakolwiek gra podobna do znanej gry Minecraft robiłem to korzystając z różnych dokumentacji itp.
 Przez dwa dni napisałem to co mam w repozytorium i nie chce mi się dalej tego robić
 
